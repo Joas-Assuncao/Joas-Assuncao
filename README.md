@@ -28,9 +28,18 @@ Seja bem-vindo ao meu GitHub!
  ![CSS3](https://img.shields.io/badge/CSS3-f053fd?style=for-the-badge&logo=css3&logoColor=white)
  ![Javascript](https://img.shields.io/badge/JavaScript-f053fd?style=for-the-badge&logo=javascript&logoColor=white)
  
-<h3 align="left"> 
-   Social
-</h3>
-
- ![LinkedIn](https://img.shields.io/badge/LinkedIn-f053fd?style=for-the-badge&logo=linkedin&logoColor=white)
- ![Instagram](https://img.shields.io/badge/Instagram-f053fd?style=for-the-badge&logo=instagram&logoColor=white)
+ <h3>Social</h3>
+ 
+<p align="left">
+  <a href="#" alt="Instagram">
+    <img src="https://img.shields.io/badge/-Instagram-6610F2?style=for-the-badge&logo=Instagram&logoColor=FFFFFF&link=https://www.instagram.com/iuricode"/>
+  </a>
+  
+  <a href="https://www.linkedin.com/in/kauansantosdepontes/" alt="Linkedin">
+    <img src="https://img.shields.io/badge/-Linkedin-6610F2?style=for-the-badge&logo=Linkedin&logoColor=FFFFFF&link=https://www.linkedin.com/in/iuricode"/>
+  </a>
+  
+  <a href="#" alt="Discord">
+    <img src="https://img.shields.io/badge/-Discord-6610F2?style=for-the-badge&logo=Discord&logoColor=FFFFFF&link=https://discord.gg/QevDJqCzaY"/>
+  </a>
+</p>
