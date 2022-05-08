@@ -4,7 +4,7 @@
 
 <p align="left">
  
- <img align="right" height="350em" src="https://raw.githubusercontent.com/gist/zkauansantos/05bec96f71d7c5468aba0148463d1174/raw/9398d1adcf3090e528dade3e8d17e2d667fadd0d/zkauansantos.svg"/>
+ <img align="right" height="300em" src="https://raw.githubusercontent.com/gist/zkauansantos/05bec96f71d7c5468aba0148463d1174/raw/9398d1adcf3090e528dade3e8d17e2d667fadd0d/zkauansantos.svg"/>
    
 Seja bem-vindo ao meu GitHub!
  
