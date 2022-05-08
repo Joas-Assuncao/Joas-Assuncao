@@ -14,7 +14,7 @@ Seja bem-vindo ao meu GitHub!
 
  - 🌱 Aprendendo JavaScript.
    
- - 🌳 Aprofundando em Bootstrap e Python.
+ - 🌳 Aprofundando em ReactJs.
 
  - 💬 Sugestões e críticas construtivas são sempre muito bem-vindas!
    
