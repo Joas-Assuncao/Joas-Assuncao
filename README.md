@@ -1,5 +1,5 @@
 <h1 align="left">
-   Oi! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="10px">, eu sou o Kauan Dev !
+   Oi! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="1px">, eu sou o Kauan Dev !
 </h1>
 
 <p align="left">
