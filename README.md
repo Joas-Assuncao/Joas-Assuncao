@@ -1,45 +1,24 @@
-<h1 align="left">
-   Oi! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="1px">, eu sou o Kauan Dev !
-</h1>
-
-<p align="left">
+<div>
+  <a href="https://github.com/zkauansantos">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?      username=zkauansantos&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zkauansantos
+&layout=compact&langs_count=6&theme=tokyonight"/>
+</div>
+<div style="display: inline_block"><br>
+  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+</div>
  
- <img align="right" height="300em" src="https://raw.githubusercontent.com/gist/zkauansantos/05bec96f71d7c5468aba0148463d1174/raw/9398d1adcf3090e528dade3e8d17e2d667fadd0d/zkauansantos.svg"/>
-   
-Seja bem-vindo ao meu GitHub!
+ <br>
  
- - 📚 Estudante de Análise e Desenvolvimento de Sistemas.
-
- - 💻 Desenvolvimento Front-End.
-
- - 🌱 Aprendendo JavaScript.
-   
- - 🌳 Aprofundando em ReactJs.
-
- - 💬 Sugestões e críticas construtivas são sempre muito bem-vindas!
-   
- </p>
-
-<h3 align="left">
-   Linguagens
-</h3>
-
- ![HTML5](https://img.shields.io/badge/HTML5-f053fd?style=for-the-badge&logo=html5&logoColor=white)
- ![CSS3](https://img.shields.io/badge/CSS3-f053fd?style=for-the-badge&logo=css3&logoColor=white)
- ![Javascript](https://img.shields.io/badge/JavaScript-f053fd?style=for-the-badge&logo=javascript&logoColor=white)
+  ### Pra conteúdo sobre programação me segue a gente nas redes abaixo!
  
- <h3>Social</h3>
+<div> 
+  <a href="https://instagram.com/zkauansantos" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href = "mailto:kauansantosdepontes@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/kauansantosdepontes/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
-<p align="left">
-  <a href="#" alt="Instagram">
-    <img src="https://img.shields.io/badge/-Instagram-6610F2?style=for-the-badge&logo=Instagram&logoColor=FFFFFF&link=https://www.instagram.com/iuricode"/>
-  </a>
-  
-  <a href="https://www.linkedin.com/in/kauansantosdepontes/" target ="_blank" alt="Linkedin">
-    <img src="https://img.shields.io/badge/-Linkedin-6610F2?style=for-the-badge&logo=Linkedin&logoColor=FFFFFF&link=https://www.linkedin.com/in/iuricode"/>
-  </a>
-  
-  <a href="#" alt="Discord">
-    <img src="https://img.shields.io/badge/-Discord-6610F2?style=for-the-badge&logo=Discord&logoColor=FFFFFF&link=https://discord.gg/QevDJqCzaY"/>
-  </a>
-</p>
+  ![Snake animation](https://github.com/zkauansantos/zkauansantos/blob/output/github-contribution-grid-snake.svg)
+
+</div>
