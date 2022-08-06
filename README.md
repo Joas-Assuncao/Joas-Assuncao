@@ -19,7 +19,8 @@
     <img alt="Github" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
     <img alt="Next" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg">
     <img alt="Angular" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg">
-    ![Snake animation](https://github.com/Joas-Assuncao/Joas-Assuncao/blob/output/github-contribution-grid-snake.svg)
+    ![GitHub Snake Light](github-snake.svg#gh-light-mode-only)
+    ![GitHub Snake dark](github-snake-dark.svg#gh-dark-mode-only)
 </div>
 
 ### Entre em contato pelos links abaixo!
