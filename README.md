@@ -19,7 +19,6 @@
     <img alt="Github" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
     <img alt="Next" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg">
     <img alt="Angular" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg">
-    ![Snake animation](https://github.com/Joas-Assuncao/Joas-Assuncao/blob/output/github-contribution-grid-snake.svg)
 </div>
 
 ### Entre em contato pelos links abaixo!
@@ -27,4 +26,5 @@
 <div> 
     <a href = "mailto:joassalvior@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
     <a href="https://www.linkedin.com/in/Joas-Assuncao/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+    ![Snake animation](https://github.com/Joas-Assuncao/Joas-Assuncao/blob/output/github-contribution-grid-snake.svg)
 </div>
